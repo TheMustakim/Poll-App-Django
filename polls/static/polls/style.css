@@ -1,6 +1,10 @@
 body {
-    background: white url("images/bg.jpg") no-repeat;
+    background: url("/static/polls/images/bg.jpg") no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
 }
+
 
 li a {
     color: green;
